@@ -1,0 +1,7 @@
+{
+  "framework": "nextjs",
+  "installCommand": "npm install --legacy-peer-deps --ignore-scripts",
+  "buildCommand": "next build --webpack",
+  "outputDirectory": ".next",
+  "regions": ["iad1"]
+}
